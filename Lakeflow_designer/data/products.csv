@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,unit_price
+1,Floyd-Rogers Paper,Office Supplies,Paper,1904.69
+2,Ramos-Mack Monitor,Technology,Monitor,783.28
+3,Kane-Johnson Keyboard,Technology,Keyboard,1003.07
+4,Bell-Mckinney Keyboard,Technology,Keyboard,1254.13
+5,"Molina, Smith and Smith Stapler",Office Supplies,Stapler,1066.77
+6,Chapman-Flowers Table,Furniture,Table,538.91
+7,Harris-Thompson Chair,Furniture,Chair,188.98
+8,Robinson Ltd Table,Furniture,Table,1958.73
+9,Hayes-Wu Monitor,Technology,Monitor,1432.63
+10,Hill-Harris Monitor,Technology,Monitor,170.22
+11,Hardy-Ingram Pen,Office Supplies,Pen,740.54
+12,Collins PLC Paper,Office Supplies,Paper,657.19
+13,"Guzman, Hood and Wells Binder",Office Supplies,Binder,648.05
+14,"Horton, Ward and Johnson Keyboard",Technology,Keyboard,473.49
+15,Dillon Group Laptop,Technology,Laptop,1288.98
+16,Buck-Johnson Paper,Office Supplies,Paper,1447.82
+17,"Reynolds, Stevens and Williams Table",Furniture,Table,1889.41
+18,Fisher LLC Chair,Furniture,Chair,323.72
+19,"Gilmore, Flores and Perez Stapler",Office Supplies,Stapler,1014.29
+20,Smith-Meyer Chair,Furniture,Chair,1319.71
+21,Scott-Shelton Mouse,Technology,Mouse,568.28
+22,Wells Ltd Mouse,Technology,Mouse,146.76
+23,"Stephens, Moore and Hodges Laptop",Technology,Laptop,1041.89
+24,"Jones, Cook and Barnes Chair",Furniture,Chair,1923.55
+25,Rodriguez Inc Binder,Office Supplies,Binder,1494.71
+26,Simpson Ltd Table,Furniture,Table,1504.89
+27,Mitchell-Smith Chair,Furniture,Chair,842.69
+28,"Jackson, Rios and Montes Mouse",Technology,Mouse,770.75
+29,Benton Inc Paper,Office Supplies,Paper,1896.01
+30,Carney-Harding Keyboard,Technology,Keyboard,442.11
+31,Barrett Inc Chair,Furniture,Chair,1434.35
+32,"Rivera, Harris and Williams Laptop",Technology,Laptop,1392.28
+33,May PLC Desk,Furniture,Desk,1635.02
+34,"Mckee, Thompson and Jefferson Mouse",Technology,Mouse,993.89
+35,Barrett Group Binder,Office Supplies,Binder,623.26
+36,"Day, Vaughan and Mills Keyboard",Technology,Keyboard,1446.58
+37,Green Ltd Mouse,Technology,Mouse,1017.66
+38,Peters-Gould Desk,Furniture,Desk,76.5
+39,"Mercer, Oconnor and Mitchell Keyboard",Technology,Keyboard,1325.21
+40,Young-Davidson Laptop,Technology,Laptop,93.82
+41,Martinez-Mcclain Paper,Office Supplies,Paper,1675.16
+42,Moon LLC Chair,Furniture,Chair,1227.2
+43,"Williams, Graham and Grimes Monitor",Technology,Monitor,1901.79
+44,Walker-Fritz Keyboard,Technology,Keyboard,1255.5
+45,Blackwell Group Desk,Furniture,Desk,676.73
+46,Gutierrez-Bonilla Binder,Office Supplies,Binder,1557.13
+47,Perez-Singh Stapler,Office Supplies,Stapler,1139.95
+48,"Ochoa, Reeves and Martin Monitor",Technology,Monitor,1087.91
+49,Rodriguez-Frazier Monitor,Technology,Monitor,481.5
+50,"James, Lewis and Walter Mouse",Technology,Mouse,1016.82
+51,Smith-Thomas Stapler,Office Supplies,Stapler,1600.55
+52,Kim-Hayes Keyboard,Technology,Keyboard,1909.89
+53,Norton and Sons Mouse,Technology,Mouse,689.48
+54,Nelson Ltd Keyboard,Technology,Keyboard,706.34
+55,Tanner Group Paper,Office Supplies,Paper,1170.5
+56,"Harrell, Bennett and Wallace Monitor",Technology,Monitor,841.29
+57,Fuller-French Desk,Furniture,Desk,286.07
+58,Taylor-Villarreal Desk,Furniture,Desk,1325.11
+59,"Aguilar, Floyd and Warner Paper",Office Supplies,Paper,1886.68
+60,"Lawson, Harrison and Meyer Stapler",Office Supplies,Stapler,85.07
+61,Clarke-Chase Bookcase,Furniture,Bookcase,1578.88
+62,Jordan-Harris Stapler,Office Supplies,Stapler,1072.99
+63,Gibson Group Monitor,Technology,Monitor,213.85
+64,Foster Ltd Laptop,Technology,Laptop,944.1
+65,Jones-Miller Binder,Office Supplies,Binder,1001.49
+66,Taylor Group Stapler,Office Supplies,Stapler,1426.2
+67,"Garcia, Phillips and Woodard Pen",Office Supplies,Pen,887.13
+68,Cook-Cox Table,Furniture,Table,1003.38
+69,Stevenson LLC Stapler,Office Supplies,Stapler,1155.61
+70,"Curtis, Wilson and Howard Bookcase",Furniture,Bookcase,1958.35
+71,Paul and Sons Paper,Office Supplies,Paper,973.3
+72,Hayes-Lewis Laptop,Technology,Laptop,746.15
+73,Hardy Inc Stapler,Office Supplies,Stapler,1979.95
+74,"Humphrey, Smith and Bowers Bookcase",Furniture,Bookcase,1837.01
+75,Rodriguez PLC Stapler,Office Supplies,Stapler,1908.57
+76,Archer LLC Table,Furniture,Table,1027.75
+77,"Tucker, Adams and Copeland Binder",Office Supplies,Binder,1362.58
+78,Phillips PLC Binder,Office Supplies,Binder,905.81
+79,Fitzgerald Ltd Chair,Furniture,Chair,742.82
+80,Cain and Sons Bookcase,Furniture,Bookcase,606.39
+81,Duncan Group Desk,Furniture,Desk,1196.09
+82,Griffith and Sons Keyboard,Technology,Keyboard,1419.84
+83,Johnston Ltd Table,Furniture,Table,168.46
+84,"Singleton, Cabrera and Foster Keyboard",Technology,Keyboard,1616.1
+85,Mills Group Table,Furniture,Table,955.5
+86,"Greene, Garcia and Bush Binder",Office Supplies,Binder,90.3
+87,"Smith, Johnson and Ramirez Binder",Office Supplies,Binder,1441.49
+88,Mcmahon-Evans Desk,Furniture,Desk,1410.94
+89,Dalton Group Bookcase,Furniture,Bookcase,1555.84
+90,Howell-Gilbert Keyboard,Technology,Keyboard,187.64
+91,Thompson-Clay Keyboard,Technology,Keyboard,343.2
+92,Santiago-Holland Laptop,Technology,Laptop,1077.4
+93,Bush Group Monitor,Technology,Monitor,1171.14
+94,"Reilly, Haynes and White Paper",Office Supplies,Paper,1375.3
+95,Moreno-Hayes Laptop,Technology,Laptop,876.51
+96,Russo LLC Paper,Office Supplies,Paper,1916.16
+97,Diaz PLC Stapler,Office Supplies,Stapler,980.97
+98,Hernandez Inc Keyboard,Technology,Keyboard,1243.15
+99,Cline Group Binder,Office Supplies,Binder,687.18
+100,"Reed, Bass and Lopez Pen",Office Supplies,Pen,210.37
+101,Carson Inc Chair,Furniture,Chair,1832.07
+102,Soto-Allen Bookcase,Furniture,Bookcase,535.23
+103,"Anderson, Jones and Jones Paper",Office Supplies,Paper,525.66
+104,Cooper-Hughes Binder,Office Supplies,Binder,1161.65
+105,"Davidson, Oneal and Vasquez Paper",Office Supplies,Paper,330.06
+106,"Villa, Thompson and Higgins Paper",Office Supplies,Paper,1631.81
+107,Vasquez LLC Paper,Office Supplies,Paper,1039.93
+108,Crosby-Hayden Bookcase,Furniture,Bookcase,1686.43
+109,Shaw-Weiss Pen,Office Supplies,Pen,620.99
+110,Parker-Johnson Laptop,Technology,Laptop,222.19
+111,Williams Group Stapler,Office Supplies,Stapler,766.36
+112,"Gonzales, Bernard and Santana Pen",Office Supplies,Pen,983.55
+113,Peterson and Sons Keyboard,Technology,Keyboard,730.25
+114,English Group Paper,Office Supplies,Paper,1230.68
+115,"Harper, Campbell and Arnold Stapler",Office Supplies,Stapler,1904.75
+116,"Mcdonald, Ruiz and Todd Table",Furniture,Table,761.02
+117,Wilson Inc Chair,Furniture,Chair,117.86
+118,"Norris, Phillips and Werner Bookcase",Furniture,Bookcase,1880.58
+119,Murray and Sons Bookcase,Furniture,Bookcase,1274.38
+120,Townsend-Williams Binder,Office Supplies,Binder,973.47
+121,Salazar and Sons Pen,Office Supplies,Pen,773.12
+122,Brown and Sons Table,Furniture,Table,1626.29
+123,Johnson Ltd Paper,Office Supplies,Paper,169.62
+124,"Bennett, Hobbs and Swanson Binder",Office Supplies,Binder,1888.05
+125,Moore-Mcdaniel Pen,Office Supplies,Pen,260.04
+126,Lutz-Aguilar Table,Furniture,Table,1445.28
+127,Fitzgerald-Curtis Chair,Furniture,Chair,1406.82
+128,Terry LLC Desk,Furniture,Desk,1773.58
+129,Lewis PLC Keyboard,Technology,Keyboard,1531.01
+130,Monroe Group Laptop,Technology,Laptop,627.42
+131,Parker-King Chair,Furniture,Chair,583.3
+132,"Weber, Miller and Nguyen Laptop",Technology,Laptop,1516.96
+133,"Sanchez, Wright and Cherry Keyboard",Technology,Keyboard,86.12
+134,"West, Escobar and Thompson Binder",Office Supplies,Binder,1612.67
+135,Turner Ltd Table,Furniture,Table,1605.07
+136,Long-Vazquez Keyboard,Technology,Keyboard,1543.78
+137,Richardson Group Desk,Furniture,Desk,1736.9
+138,Cantrell and Sons Desk,Furniture,Desk,1878.35
+139,James-Mann Keyboard,Technology,Keyboard,817.79
+140,"Hernandez, Jackson and Carpenter Binder",Office Supplies,Binder,137.47
+141,Newman-Grimes Binder,Office Supplies,Binder,1089.01
+142,"Stanley, Peck and Knox Bookcase",Furniture,Bookcase,235.4
+143,Brooks-Burns Monitor,Technology,Monitor,1085.6
+144,Olson Ltd Stapler,Office Supplies,Stapler,18.18
+145,Jennings and Sons Paper,Office Supplies,Paper,631.13
+146,Black LLC Bookcase,Furniture,Bookcase,1561.84
+147,Jones-Carr Binder,Office Supplies,Binder,1034.13
+148,Evans LLC Stapler,Office Supplies,Stapler,447.49
+149,Lewis Inc Keyboard,Technology,Keyboard,997.4
+150,Gross Ltd Desk,Furniture,Desk,1507.33
+151,Williams-Reed Mouse,Technology,Mouse,1841.2
+152,Jones LLC Desk,Furniture,Desk,962.85
+153,Grant LLC Bookcase,Furniture,Bookcase,643.2
+154,Williams Group Pen,Office Supplies,Pen,1085.71
+155,Henry-Fisher Paper,Office Supplies,Paper,600.19
+156,Stevens-Golden Table,Furniture,Table,305.76
+157,"Marshall, Perez and Johnson Keyboard",Technology,Keyboard,270.23
+158,"Gomez, Evans and Wright Laptop",Technology,Laptop,1687.88
+159,Wallace-Long Monitor,Technology,Monitor,673.99
+160,Ponce Group Desk,Furniture,Desk,1923.61
+161,Williams and Sons Stapler,Office Supplies,Stapler,336.53
+162,Jefferson-Baker Laptop,Technology,Laptop,968.51
+163,Odonnell-Morales Keyboard,Technology,Keyboard,487.37
+164,"Johnson, Webb and Ball Paper",Office Supplies,Paper,5.24
+165,Nixon-Ross Table,Furniture,Table,1246.99
+166,"Barton, Palmer and Perez Keyboard",Technology,Keyboard,501.14
+167,Dunn and Sons Keyboard,Technology,Keyboard,1773.29
+168,Martin-Waters Bookcase,Furniture,Bookcase,1586.15
+169,Bryant-Green Table,Furniture,Table,842.98
+170,Garcia Inc Laptop,Technology,Laptop,1497.17
+171,Whitaker Inc Pen,Office Supplies,Pen,1444.19
+172,Long-Parrish Monitor,Technology,Monitor,939.62
+173,"Davis, Wiggins and Lopez Bookcase",Furniture,Bookcase,1309.81
+174,"Williams, Smith and Compton Laptop",Technology,Laptop,1966.68
+175,Hawkins-Smith Mouse,Technology,Mouse,1894.26
+176,"Davis, Hess and Leon Desk",Furniture,Desk,1289.96
+177,Miller-Orr Keyboard,Technology,Keyboard,109.27
+178,Heath-Lane Pen,Office Supplies,Pen,1728.78
+179,Francis-Evans Bookcase,Furniture,Bookcase,1506.0
+180,Wells Inc Monitor,Technology,Monitor,769.94
+181,"Walker, Owens and Ray Stapler",Office Supplies,Stapler,1761.4
+182,"Mason, Jones and Goodman Laptop",Technology,Laptop,1197.65
+183,Baird-Guerrero Bookcase,Furniture,Bookcase,1737.7
+184,Skinner-Maxwell Laptop,Technology,Laptop,1661.03
+185,Gonzalez-Richards Monitor,Technology,Monitor,225.13
+186,Jones-Curry Desk,Furniture,Desk,1555.86
+187,Boyd Ltd Monitor,Technology,Monitor,1183.09
+188,Fisher Group Paper,Office Supplies,Paper,89.24
+189,Weaver-Johnson Stapler,Office Supplies,Stapler,215.25
+190,Small and Sons Table,Furniture,Table,1601.79
+191,Jordan-Booker Table,Furniture,Table,261.14
+192,Nguyen-Dixon Binder,Office Supplies,Binder,1767.42
+193,"Brown, Robinson and Gibbs Chair",Furniture,Chair,955.86
+194,Bailey-Perez Bookcase,Furniture,Bookcase,631.85
+195,Barber and Sons Mouse,Technology,Mouse,1669.28
+196,"Navarro, Morrison and Mclaughlin Pen",Office Supplies,Pen,1771.74
+197,Cooper-Reyes Pen,Office Supplies,Pen,1739.79
+198,Caldwell Ltd Keyboard,Technology,Keyboard,261.49
+199,Ward-Gomez Pen,Office Supplies,Pen,202.31
+200,"Cooper, James and Wang Pen",Office Supplies,Pen,1876.98
+201,Stokes-Mccullough Desk,Furniture,Desk,1036.87
+202,Lopez LLC Paper,Office Supplies,Paper,1120.44
+203,Goodman-Warner Keyboard,Technology,Keyboard,651.18
+204,Dorsey-Greene Table,Furniture,Table,1360.89
+205,Martin-Sparks Binder,Office Supplies,Binder,1627.61
+206,Novak LLC Monitor,Technology,Monitor,1459.68
+207,"Jimenez, Clay and Jensen Desk",Furniture,Desk,1275.81
+208,Martin LLC Bookcase,Furniture,Bookcase,604.73
+209,Wilson-Murray Keyboard,Technology,Keyboard,801.49
+210,Villegas-Wu Paper,Office Supplies,Paper,954.61
+211,Flores PLC Desk,Furniture,Desk,192.34
+212,Snyder Inc Desk,Furniture,Desk,816.57
+213,Flores Group Mouse,Technology,Mouse,1142.77
+214,Anderson-Garcia Stapler,Office Supplies,Stapler,1158.24
+215,Hawkins-Morris Table,Furniture,Table,905.65
+216,"Wilson, Taylor and Mccarty Paper",Office Supplies,Paper,558.54
+217,Carrillo-Green Desk,Furniture,Desk,1499.21
+218,Bass Group Laptop,Technology,Laptop,1107.76
+219,Joseph Group Mouse,Technology,Mouse,1223.77
+220,"Martinez, Allen and Walker Monitor",Technology,Monitor,578.51
+221,York-Romero Monitor,Technology,Monitor,586.09
+222,Camacho LLC Chair,Furniture,Chair,836.98
+223,"King, Butler and Sharp Stapler",Office Supplies,Stapler,373.46
+224,"Watson, Castro and Davis Binder",Office Supplies,Binder,1330.03
+225,"Simpson, Barber and Ross Stapler",Office Supplies,Stapler,1638.29
+226,"Brown, Chambers and Jones Laptop",Technology,Laptop,13.38
+227,Nguyen-Ingram Table,Furniture,Table,601.2
+228,Gonzalez Group Chair,Furniture,Chair,1384.6
+229,Good Ltd Laptop,Technology,Laptop,1429.25
+230,Jones LLC Binder,Office Supplies,Binder,1898.79
+231,"Vaughan, Green and Fletcher Keyboard",Technology,Keyboard,164.72
+232,"Thomas, Vega and Alvarez Chair",Furniture,Chair,124.53
+233,"Cook, Dominguez and Gill Desk",Furniture,Desk,164.3
+234,"Dominguez, Jordan and Copeland Chair",Furniture,Chair,485.17
+235,Lee-Bridges Keyboard,Technology,Keyboard,1717.55
+236,Nelson Inc Pen,Office Supplies,Pen,437.05
+237,Ruiz LLC Mouse,Technology,Mouse,1392.56
+238,"Gutierrez, Bates and Love Chair",Furniture,Chair,570.77
+239,King-Smith Mouse,Technology,Mouse,585.66
+240,Parks-Butler Pen,Office Supplies,Pen,412.68
+241,Rodriguez-Nguyen Chair,Furniture,Chair,1377.82
+242,Lawson-Moreno Mouse,Technology,Mouse,1799.38
+243,Lowe Group Table,Furniture,Table,663.17
+244,Ward-Leonard Table,Furniture,Table,1503.56
+245,Weiss-Cruz Keyboard,Technology,Keyboard,949.55
+246,"Carter, Kennedy and Osborne Monitor",Technology,Monitor,1966.08
+247,"Dorsey, Stark and Carpenter Desk",Furniture,Desk,663.61
+248,"Walker, Martinez and Owen Pen",Office Supplies,Pen,1854.72
+249,Dickson-Hutchinson Table,Furniture,Table,1989.38
+250,"Martinez, Mason and Barnes Bookcase",Furniture,Bookcase,949.62
+251,Wheeler LLC Table,Furniture,Table,1181.88
+252,Lopez Group Chair,Furniture,Chair,123.17
+253,Mason-King Bookcase,Furniture,Bookcase,484.47
+254,Crawford-Green Binder,Office Supplies,Binder,1763.93
+255,Vega-Morgan Chair,Furniture,Chair,19.73
+256,"Fernandez, Ford and Weiss Mouse",Technology,Mouse,1890.49
+257,Shields-Phillips Keyboard,Technology,Keyboard,1269.32
+258,Robinson-Burgess Desk,Furniture,Desk,1814.62
+259,Adams PLC Mouse,Technology,Mouse,837.89
+260,Brock-Wallace Desk,Furniture,Desk,437.01
+261,Friedman-Nichols Laptop,Technology,Laptop,1900.12
+262,Gonzalez-Carlson Monitor,Technology,Monitor,1216.68
+263,"Williams, Gomez and Wilson Laptop",Technology,Laptop,70.09
+264,"Reilly, Jones and Bray Keyboard",Technology,Keyboard,1131.71
+265,"Hartman, Cochran and Hernandez Binder",Office Supplies,Binder,464.8
+266,Gonzalez Inc Pen,Office Supplies,Pen,1243.88
+267,Cameron Inc Pen,Office Supplies,Pen,263.17
+268,Manning Ltd Paper,Office Supplies,Paper,1495.39
+269,Glover-Haynes Stapler,Office Supplies,Stapler,1791.61
+270,"Walker, Cox and Morris Laptop",Technology,Laptop,1961.99
+271,Cowan-White Desk,Furniture,Desk,1231.4
+272,Houston Inc Bookcase,Furniture,Bookcase,1140.6
+273,Scott Inc Chair,Furniture,Chair,1117.25
+274,Lawrence LLC Table,Furniture,Table,489.89
+275,Williams Group Binder,Office Supplies,Binder,777.94
+276,Rivera PLC Paper,Office Supplies,Paper,1707.29
+277,"Ellis, Shea and Torres Monitor",Technology,Monitor,1137.57
+278,Olsen LLC Bookcase,Furniture,Bookcase,1759.91
+279,"Hall, Kim and Stevens Laptop",Technology,Laptop,326.03
+280,Johnson-Singleton Paper,Office Supplies,Paper,120.43
+281,Blackburn-Humphrey Chair,Furniture,Chair,1302.78
+282,"Schwartz, Gibson and Morris Binder",Office Supplies,Binder,405.66
+283,"Sweeney, Brown and Perry Paper",Office Supplies,Paper,1822.33
+284,"Jackson, Sanders and Jackson Chair",Furniture,Chair,266.72
+285,Luna LLC Laptop,Technology,Laptop,1677.42
+286,"Rodriguez, Collins and Hernandez Laptop",Technology,Laptop,1063.82
+287,James-Carter Chair,Furniture,Chair,788.81
+288,Jacobs-Archer Monitor,Technology,Monitor,606.76
+289,Cherry Ltd Bookcase,Furniture,Bookcase,1557.75
+290,"Curry, Campos and Turner Stapler",Office Supplies,Stapler,1651.41
+291,Wilson-Finley Pen,Office Supplies,Pen,1997.04
+292,"Johnson, Ramirez and Young Keyboard",Technology,Keyboard,1959.37
+293,Mclaughlin-Rodriguez Pen,Office Supplies,Pen,1009.47
+294,Singh Inc Desk,Furniture,Desk,1250.57
+295,Li-Cunningham Keyboard,Technology,Keyboard,1054.79
+296,Murray-Nelson Mouse,Technology,Mouse,1291.69
+297,Vang Ltd Binder,Office Supplies,Binder,899.33
+298,Hall Group Paper,Office Supplies,Paper,1467.94
+299,Garcia Inc Bookcase,Furniture,Bookcase,1169.65
+300,"Reed, Baker and Howell Monitor",Technology,Monitor,1538.52
+301,"Sanders, Rice and Graham Chair",Furniture,Chair,152.86
+302,Whitaker Inc Laptop,Technology,Laptop,303.69
+303,Knapp PLC Mouse,Technology,Mouse,137.82
+304,Murray Ltd Paper,Office Supplies,Paper,85.29
+305,"Thompson, Spencer and Patel Bookcase",Furniture,Bookcase,1431.77
+306,Griffin-Carroll Chair,Furniture,Chair,1179.43
+307,"Raymond, Wolf and Walsh Stapler",Office Supplies,Stapler,410.13
+308,"Murphy, Hernandez and Williams Keyboard",Technology,Keyboard,1628.59
+309,Hamilton-Cooper Bookcase,Furniture,Bookcase,793.8
+310,"Hansen, Williams and Rivera Table",Furniture,Table,576.89
+311,Welch LLC Pen,Office Supplies,Pen,944.16
+312,Velazquez Ltd Paper,Office Supplies,Paper,1734.2
+313,Bailey-Howell Pen,Office Supplies,Pen,86.77
+314,Jordan PLC Monitor,Technology,Monitor,441.08
+315,Summers-Moore Laptop,Technology,Laptop,1405.22
+316,"Miller, Martin and Richards Paper",Office Supplies,Paper,726.27
+317,Brown Group Table,Furniture,Table,192.47
+318,Morales Ltd Stapler,Office Supplies,Stapler,167.04
+319,Wood-Camacho Binder,Office Supplies,Binder,374.53
+320,Hurst and Sons Desk,Furniture,Desk,23.47
+321,Mcdaniel Inc Chair,Furniture,Chair,149.0
+322,Rivera Ltd Pen,Office Supplies,Pen,1169.84
+323,Green-Duran Paper,Office Supplies,Paper,459.08
+324,"Khan, Roberts and Gonzalez Laptop",Technology,Laptop,733.38
+325,Smith PLC Keyboard,Technology,Keyboard,609.05
+326,Bowers-Jordan Bookcase,Furniture,Bookcase,1159.23
+327,Rodriguez-Boyd Pen,Office Supplies,Pen,1055.38
+328,Gutierrez-Roberts Chair,Furniture,Chair,488.83
+329,Cunningham-Morgan Chair,Furniture,Chair,1734.01
+330,Salinas-Gray Paper,Office Supplies,Paper,882.41
+331,"Barnes, Gregory and Faulkner Laptop",Technology,Laptop,479.93
+332,"Hale, Cooke and Stokes Chair",Furniture,Chair,1232.4
+333,"Davis, Valdez and Rogers Table",Furniture,Table,260.98
+334,Foster and Sons Stapler,Office Supplies,Stapler,1688.52
+335,Macdonald-Weeks Bookcase,Furniture,Bookcase,727.32
+336,Pacheco Inc Table,Furniture,Table,1769.49
+337,Morrison-Johnson Stapler,Office Supplies,Stapler,191.32
+338,"Griffin, Forbes and Dickerson Mouse",Technology,Mouse,854.29
+339,Kelly Ltd Binder,Office Supplies,Binder,138.91
+340,"Munoz, Richardson and Richards Laptop",Technology,Laptop,424.39
+341,Hansen Inc Chair,Furniture,Chair,831.82
+342,"Ali, Bentley and Miller Laptop",Technology,Laptop,195.71
+343,Smith-Lee Bookcase,Furniture,Bookcase,1011.78
+344,"Gonzales, Ramirez and Barajas Bookcase",Furniture,Bookcase,135.11
+345,Lee Group Binder,Office Supplies,Binder,1978.55
+346,Chavez Group Desk,Furniture,Desk,952.18
+347,Todd LLC Table,Furniture,Table,1882.84
+348,"Martin, Meyer and Glass Keyboard",Technology,Keyboard,1067.35
+349,Garcia Group Desk,Furniture,Desk,947.77
+350,Martin and Sons Laptop,Technology,Laptop,404.35
+351,Edwards-Fitzgerald Monitor,Technology,Monitor,1151.03
+352,"Miller, Peterson and Brown Monitor",Technology,Monitor,678.95
+353,"Hobbs, Lopez and Robles Keyboard",Technology,Keyboard,1282.68
+354,Buck Group Paper,Office Supplies,Paper,1886.0
+355,Howard and Sons Paper,Office Supplies,Paper,1801.77
+356,Blair-Simmons Chair,Furniture,Chair,326.62
+357,Robinson-Brown Table,Furniture,Table,1984.25
+358,Patterson PLC Monitor,Technology,Monitor,12.81
+359,"Mcmillan, Shaw and Figueroa Laptop",Technology,Laptop,285.11
+360,Marshall Inc Table,Furniture,Table,1455.64
+361,Williams PLC Desk,Furniture,Desk,171.53
+362,"Carter, Koch and Miller Desk",Furniture,Desk,806.81
+363,"Peterson, Patterson and Mueller Mouse",Technology,Mouse,732.18
+364,"Russell, Anderson and Garrett Monitor",Technology,Monitor,821.41
+365,"Gallegos, Ray and Adams Pen",Office Supplies,Pen,108.38
+366,Gardner Group Paper,Office Supplies,Paper,1588.82
+367,Rogers Inc Binder,Office Supplies,Binder,602.38
+368,Krause-Hinton Desk,Furniture,Desk,1105.62
+369,Park LLC Keyboard,Technology,Keyboard,1191.23
+370,Carter-Scott Mouse,Technology,Mouse,1755.46
+371,Rich-Turner Paper,Office Supplies,Paper,1502.39
+372,Berry Inc Desk,Furniture,Desk,1807.78
+373,Curry and Sons Binder,Office Supplies,Binder,319.35
+374,"Baker, Ward and Lewis Table",Furniture,Table,391.61
+375,Elliott LLC Mouse,Technology,Mouse,1516.85
+376,"Castillo, Manning and Shepherd Laptop",Technology,Laptop,617.32
+377,"Martinez, Brown and Smith Mouse",Technology,Mouse,172.72
+378,Mason-Harris Stapler,Office Supplies,Stapler,1621.81
+379,"Boyd, Salazar and Glenn Laptop",Technology,Laptop,1952.42
+380,"Powers, Jones and Yoder Monitor",Technology,Monitor,1114.47
+381,Reyes Inc Monitor,Technology,Monitor,854.36
+382,"Mckinney, Edwards and Hernandez Desk",Furniture,Desk,349.54
+383,"Clark, Meyers and Russell Chair",Furniture,Chair,894.66
+384,Hooper-Miller Monitor,Technology,Monitor,1758.34
+385,Diaz-Brooks Paper,Office Supplies,Paper,318.7
+386,Gill-Davis Paper,Office Supplies,Paper,1837.39
+387,"Blackwell, Salazar and Johnson Mouse",Technology,Mouse,1577.65
+388,Collier LLC Bookcase,Furniture,Bookcase,434.0
+389,"Hernandez, Myers and Hancock Binder",Office Supplies,Binder,1615.81
+390,Brooks-Miller Table,Furniture,Table,18.87
+391,"Taylor, Simon and Smith Mouse",Technology,Mouse,1564.6
+392,Wood and Sons Monitor,Technology,Monitor,1208.74
+393,"Baker, Powers and Howell Mouse",Technology,Mouse,706.52
+394,Delgado Inc Pen,Office Supplies,Pen,1909.29
+395,"Smith, Collins and Odom Laptop",Technology,Laptop,890.1
+396,"Frederick, Richardson and Scott Bookcase",Furniture,Bookcase,689.27
+397,Williams Inc Chair,Furniture,Chair,901.83
+398,"Cox, Campbell and Taylor Desk",Furniture,Desk,1458.14
+399,"Lawrence, Esparza and Delacruz Stapler",Office Supplies,Stapler,322.23
+400,Bryant-Garcia Binder,Office Supplies,Binder,294.37
+401,Moore-Campos Mouse,Technology,Mouse,1621.16
+402,Johnson Inc Binder,Office Supplies,Binder,1286.55
+403,"Gonzales, Thomas and Schwartz Stapler",Office Supplies,Stapler,153.47
+404,"Harrison, Sanchez and Frederick Chair",Furniture,Chair,636.27
+405,Campbell-Best Paper,Office Supplies,Paper,1992.06
+406,"Dennis, Duncan and Delgado Mouse",Technology,Mouse,320.6
+407,"Warren, Reed and Mcdonald Pen",Office Supplies,Pen,1788.45
+408,Bentley Ltd Mouse,Technology,Mouse,8.24
+409,Chen and Sons Monitor,Technology,Monitor,1288.43
+410,"Porter, Erickson and Lee Bookcase",Furniture,Bookcase,1678.97
+411,"Hernandez, Ryan and Coleman Desk",Furniture,Desk,579.91
+412,Jones Ltd Chair,Furniture,Chair,1359.45
+413,"May, Obrien and Rios Stapler",Office Supplies,Stapler,1170.47
+414,Russell and Sons Mouse,Technology,Mouse,1968.64
+415,"Hardin, Mcmahon and Rodriguez Paper",Office Supplies,Paper,1974.19
+416,"Davis, Quinn and Garza Binder",Office Supplies,Binder,1307.03
+417,Cross PLC Stapler,Office Supplies,Stapler,333.81
+418,Kidd-Dawson Laptop,Technology,Laptop,1355.76
+419,Webster Ltd Bookcase,Furniture,Bookcase,642.36
+420,Hatfield Ltd Mouse,Technology,Mouse,1987.19
+421,"Hill, Davis and Berg Binder",Office Supplies,Binder,1702.42
+422,"Moore, Villarreal and Cummings Laptop",Technology,Laptop,1677.38
+423,Martin Inc Chair,Furniture,Chair,1390.22
+424,"Moss, Taylor and Brown Monitor",Technology,Monitor,1074.36
+425,"Marks, Mcdonald and Harris Chair",Furniture,Chair,1463.51
+426,"Walters, Spencer and Cooley Binder",Office Supplies,Binder,518.6
+427,Soto-Brennan Chair,Furniture,Chair,1865.12
+428,Cameron-Peterson Mouse,Technology,Mouse,1084.4
+429,"Mcdonald, Alexander and Richmond Mouse",Technology,Mouse,1387.8
+430,"Crawford, Alvarez and Adams Bookcase",Furniture,Bookcase,114.65
+431,Mcfarland PLC Stapler,Office Supplies,Stapler,1905.44
+432,Burnett-Carrillo Desk,Furniture,Desk,1877.27
+433,Reid-Reid Stapler,Office Supplies,Stapler,1911.66
+434,Collins-Cohen Stapler,Office Supplies,Stapler,597.46
+435,"Johnson, Carlson and Wagner Paper",Office Supplies,Paper,378.01
+436,Downs-Armstrong Mouse,Technology,Mouse,1949.99
+437,"Jenkins, Hammond and Bates Chair",Furniture,Chair,1822.84
+438,Vance-Mcguire Laptop,Technology,Laptop,1206.96
+439,Gaines-Rhodes Binder,Office Supplies,Binder,270.73
+440,Mills-Vargas Paper,Office Supplies,Paper,1586.56
+441,Palmer LLC Monitor,Technology,Monitor,923.9
+442,"Dawson, Walker and Stephens Paper",Office Supplies,Paper,1798.68
+443,Simmons-Jones Desk,Furniture,Desk,1361.83
+444,Brewer Group Laptop,Technology,Laptop,812.94
+445,King LLC Mouse,Technology,Mouse,1121.11
+446,"Porter, Burns and Lara Paper",Office Supplies,Paper,291.58
+447,Davis-Gibson Laptop,Technology,Laptop,1575.49
+448,Cruz-Raymond Bookcase,Furniture,Bookcase,1922.63
+449,Cobb-Lee Binder,Office Supplies,Binder,811.99
+450,"Coleman, Johnson and Perez Desk",Furniture,Desk,315.46
+451,"Valenzuela, Anderson and Montoya Stapler",Office Supplies,Stapler,735.14
+452,"Patrick, Lawson and Reid Laptop",Technology,Laptop,1934.16
+453,"Taylor, Jordan and Coleman Stapler",Office Supplies,Stapler,136.01
+454,"Reyes, Conner and Shields Pen",Office Supplies,Pen,1680.29
+455,Cooper Group Binder,Office Supplies,Binder,575.39
+456,Palmer Ltd Keyboard,Technology,Keyboard,1257.34
+457,"Bradley, Phillips and White Desk",Furniture,Desk,157.88
+458,Lambert-Howard Keyboard,Technology,Keyboard,1862.19
+459,Lopez Inc Paper,Office Supplies,Paper,318.82
+460,"Dickerson, Rogers and Prince Laptop",Technology,Laptop,1679.81
+461,Wells-Hernandez Binder,Office Supplies,Binder,1794.13
+462,Jordan-Donaldson Paper,Office Supplies,Paper,1695.67
+463,"Gardner, Griffith and Merritt Stapler",Office Supplies,Stapler,1232.98
+464,"West, Taylor and Hicks Paper",Office Supplies,Paper,1929.7
+465,Black-Barnes Bookcase,Furniture,Bookcase,1963.77
+466,Baker-Ellison Desk,Furniture,Desk,995.91
+467,Smith and Sons Chair,Furniture,Chair,486.8
+468,Hill-Tyler Monitor,Technology,Monitor,1376.14
+469,Mann Ltd Desk,Furniture,Desk,1780.99
+470,"Smith, Fisher and Ward Table",Furniture,Table,1427.34
+471,Olson Group Desk,Furniture,Desk,780.97
+472,"Allen, Stevens and Gonzalez Table",Furniture,Table,1453.83
+473,"Jones, Lopez and Webb Stapler",Office Supplies,Stapler,1742.76
+474,Turner-Watkins Keyboard,Technology,Keyboard,276.46
+475,Rodriguez Ltd Bookcase,Furniture,Bookcase,1129.53
+476,Smith-Parker Paper,Office Supplies,Paper,288.67
+477,"Acosta, Morris and Gonzalez Chair",Furniture,Chair,421.49
+478,"Leonard, Hale and Carlson Chair",Furniture,Chair,1174.58
+479,Combs PLC Paper,Office Supplies,Paper,335.7
+480,Johnson-Curry Monitor,Technology,Monitor,120.91
+481,"Campos, Lam and Orr Binder",Office Supplies,Binder,341.6
+482,Barrett-Hayes Stapler,Office Supplies,Stapler,1278.54
+483,Smith Group Chair,Furniture,Chair,1339.17
+484,Austin LLC Mouse,Technology,Mouse,352.13
+485,Walter-Watkins Keyboard,Technology,Keyboard,1611.09
+486,"Rojas, Young and Wilkinson Paper",Office Supplies,Paper,1847.59
+487,"Maldonado, Perry and Foster Table",Furniture,Table,589.34
+488,Palmer and Sons Table,Furniture,Table,1453.55
+489,"Sims, Green and Salazar Table",Furniture,Table,1929.91
+490,Long-Foster Table,Furniture,Table,1869.92
+491,Rodriguez-Johnson Laptop,Technology,Laptop,155.59
+492,Rivera Ltd Laptop,Technology,Laptop,747.92
+493,Savage-Gonzales Table,Furniture,Table,1538.39
+494,Hoover-Morrison Keyboard,Technology,Keyboard,1111.82
+495,"Hawkins, Lowe and Jones Paper",Office Supplies,Paper,600.53
+496,Rodriguez and Sons Keyboard,Technology,Keyboard,296.21
+497,Lyons-Robertson Keyboard,Technology,Keyboard,96.39
+498,Villa-Smith Desk,Furniture,Desk,498.2
+499,Schultz-Henson Mouse,Technology,Mouse,1031.1
+500,Williams-Cain Monitor,Technology,Monitor,960.63
