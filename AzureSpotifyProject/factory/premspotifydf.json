@@ -1,0 +1,15 @@
+{
+	"name": "premspotifydf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa390cbd-f6a2-4aa3-9199-f1bea161aa06",
+		"tenantId": "b44c3257-65be-4194-8b73-c6c431a74db5"
+	}
+}
